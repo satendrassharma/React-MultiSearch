@@ -2,7 +2,7 @@
   "name": "countrysearch",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://github.com/satendrassharma/React-MultiSearch",
+  "homepage": "https://github.com/satendrassharma/React-MultiSearch",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
@@ -10,7 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy": "num run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
