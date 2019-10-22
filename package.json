@@ -2,7 +2,7 @@
   "name": "countrysearch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/satendrassharma/React-MultiSearch",
+  "homepage": "https://satendrassharma.github.io/React-MultiSearch",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.2",
