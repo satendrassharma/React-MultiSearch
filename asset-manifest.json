@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/satendrassharma/React-MultiSearch/static/css/main.225617d6.chunk.css",
+    "main.js": "/satendrassharma/React-MultiSearch/static/js/main.700f4422.chunk.js",
+    "main.js.map": "/satendrassharma/React-MultiSearch/static/js/main.700f4422.chunk.js.map",
+    "runtime-main.js": "/satendrassharma/React-MultiSearch/static/js/runtime-main.a086da34.js",
+    "runtime-main.js.map": "/satendrassharma/React-MultiSearch/static/js/runtime-main.a086da34.js.map",
+    "static/js/2.b5586dd2.chunk.js": "/satendrassharma/React-MultiSearch/static/js/2.b5586dd2.chunk.js",
+    "static/js/2.b5586dd2.chunk.js.map": "/satendrassharma/React-MultiSearch/static/js/2.b5586dd2.chunk.js.map",
+    "index.html": "/satendrassharma/React-MultiSearch/index.html",
+    "precache-manifest.f3e185891fef99b23c7b774dad8dab1e.js": "/satendrassharma/React-MultiSearch/precache-manifest.f3e185891fef99b23c7b774dad8dab1e.js",
+    "service-worker.js": "/satendrassharma/React-MultiSearch/service-worker.js",
+    "static/css/main.225617d6.chunk.css.map": "/satendrassharma/React-MultiSearch/static/css/main.225617d6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a086da34.js",
+    "static/js/2.b5586dd2.chunk.js",
+    "static/css/main.225617d6.chunk.css",
+    "static/js/main.700f4422.chunk.js"
+  ]
+}
